@@ -32,7 +32,7 @@
     "musicmetadata": "^2.0.4",
     "node-buzzer": "git+https://github.com/vincentdieltiens/node-buzzer.git#master",
     "node-hid": "git+https://github.com/node-hid/node-hid.git#master",
-    "npm": "^3.10.9",
+    "npm": "^6.13.4",
     "open": "0.0.5",
     "path": "^0.12.7",
     "qrcode-js": "0.0.2",
