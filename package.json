@@ -49,6 +49,6 @@
   "main": "electron.js",
   "devDependencies": {
     "@types/node": "^6.0.41",
-    "electron": "^1.4.8"
+    "electron": "^9.1.0"
   }
 }
